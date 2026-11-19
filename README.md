@@ -12,6 +12,14 @@ Linha de pesquisa do [Green Cinnamon Labs](https://github.com/Green-Cinnamon-Lab
 
 Isto muda conforme eu avanço.
 
+## Repositórios
+
+Ficam lado a lado em `C:\Projetos\gclabs\`, e o workspace é o [`mnemosine.code-workspace`](mnemosine.code-workspace).
+
+| Repositório | Papel |
+| --- | --- |
+| [`lab-latent-memory`](https://github.com/Green-Cinnamon-Labs/lab-latent-memory) | Laboratório de memória latente |
+
 ## Livro
 
 [`book/`](book/)

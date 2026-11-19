@@ -1,0 +1,7 @@
+{
+  "folders": [
+    { "name": "spec-mnemosine (hub e livro)", "path": "." },
+    { "name": "lab-latent-memory", "path": "../lab-latent-memory" }
+  ],
+  "settings": {}
+}
